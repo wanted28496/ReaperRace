@@ -1,0 +1,22 @@
+newmtl Fox_BaseMeshSG
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Fido textured_Fox_BaseMeshSG_color.png
+map_Ks Fido textured_Fox_BaseMeshSG_gloss.png
+map_bump Fido textured_Fox_BaseMeshSG_nmap.png
+newmtl initialShadingGroup
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd Fido textured_initialShadingGroup_color.png
+map_Ks Fido textured_initialShadingGroup_gloss.png
+map_bump Fido textured_initialShadingGroup_nmap.png
